@@ -1,0 +1,23 @@
+article_slug: "anchoring-bias-economic-judgment"
+series: "Behavioral Economics"
+repository: "behavioral-economics-code"
+synthetic_data_only: true
+status: "scaffold"
+methods:
+  - decision-regime simulation
+  - behavioral-friction modeling
+  - prospect-theory examples
+  - intertemporal-choice workflow
+  - social-preference modeling
+  - policy-uptake simulation
+languages:
+  - Python
+  - R
+  - Julia
+  - C++
+  - Fortran
+  - C
+  - Rust
+  - SQL
+  - Go
+  - notebooks
