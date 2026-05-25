@@ -1,0 +1,4 @@
+regime,compliance_rate,mean_compliance_probability,mean_welfare
+trust_plus_salience,0.86,0.85,1.72
+simplification_first,0.78,0.77,1.39
+enforcement_heavy,0.71,0.70,1.03
