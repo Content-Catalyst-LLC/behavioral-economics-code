@@ -1,5 +1,16 @@
-# Ethics and Scope for behavioral-economics-sustainable-consumption
+# Ethics and Scope
 
-Use this folder for transparent, synthetic-data demonstrations and article support.
+This repository is for synthetic-data research scaffolding, teaching, methods demonstration, and transparent policy reasoning.
 
-Do not use this scaffold for covert persuasion, dark-pattern optimization, exploitative targeting, or individual psychological profiling.
+It is not intended for:
+
+- consumer scoring
+- individual targeting
+- manipulative behavioral design
+- dark-pattern optimization
+- real benefit eligibility decisions
+- enforcement or compliance scoring
+- operational policy deployment without validation
+- surveillance or profiling
+
+Behavioral economics should support clearer, fairer, more accountable decision environments. It should not be used to exploit bounded rationality, scarcity, confusion, or limited attention.

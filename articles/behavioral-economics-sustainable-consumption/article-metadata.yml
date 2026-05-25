@@ -1,23 +1,32 @@
-article_slug: "behavioral-economics-sustainable-consumption"
+title: "Behavioral Economics and Sustainable Consumption"
+slug: "behavioral-economics-sustainable-consumption"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/behavioral-economics-sustainable-consumption"
+article_url: "https://sustainablecatalyst.com/behavioral-economics-sustainable-consumption/"
+status: "research-scaffold"
+data_type: "synthetic"
+primary_methods:
+  - behavioral adoption simulation
+  - discrete choice modeling
+  - policy microsimulation
+  - welfare accounting
+  - causal inference scaffold
+  - event study scaffold
+  - distributional incidence analysis
 languages:
   - Python
   - R
+  - Stata
   - Julia
-  - C++
-  - Fortran
-  - C
-  - Rust
   - SQL
+  - C++
+  - C
+  - Fortran
+  - Rust
   - Go
-  - notebooks
+  - Jupyter
+ethics:
+  - synthetic data only
+  - no individual scoring
+  - no consumer targeting
+  - no operational policy deployment without validation

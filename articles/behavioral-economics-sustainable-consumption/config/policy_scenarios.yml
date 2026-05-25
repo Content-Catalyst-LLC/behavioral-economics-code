@@ -1,0 +1,31 @@
+scenarios:
+  information_only:
+    subsidy: 0.00
+    default_green: 0
+    norm_signal: 0.50
+    friction: 0.18
+    description: "Information provision without default or subsidy."
+  green_default:
+    subsidy: 0.00
+    default_green: 1
+    norm_signal: 0.65
+    friction: 0.08
+    description: "Sustainable option becomes the default."
+  subsidy:
+    subsidy: 0.05
+    default_green: 0
+    norm_signal: 0.50
+    friction: 0.15
+    description: "Price premium reduced without default shift."
+  subsidy_plus_default:
+    subsidy: 0.05
+    default_green: 1
+    norm_signal: 0.70
+    friction: 0.08
+    description: "Combined subsidy and green default."
+  regulation_plus_support:
+    subsidy: 0.04
+    default_green: 1
+    norm_signal: 0.75
+    friction: 0.05
+    description: "Default, subsidy, and lower administrative burden."
