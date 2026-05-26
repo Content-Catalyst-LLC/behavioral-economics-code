@@ -1,23 +1,58 @@
-article_slug: "bounded-rationality-economic-decision-making"
+title: "Bounded Rationality: Cognitive Limits and Economic Decision-Making"
+slug: "bounded-rationality-economic-decision-making"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/bounded-rationality-economic-decision-making/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/bounded-rationality-economic-decision-making"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic bounded-rationality panel data
+  - sequential-search simulations
+  - satisficing versus optimization comparisons
+  - search-cost models
+  - cognitive-load and time-pressure examples
+  - aspiration-threshold workflows
+  - optimization-gap analysis
+  - administrative-burden simulations
+  - policy-simplification workflows
+  - organizational-routine models
+  - consumer-search and switching-friction examples
+  - digital-platform choice-architecture scaffolds
+  - sustainability decision-system simulations
+  - treatment-effect comparisons by constraint regime
+  - heterogeneity by aspiration, stress, capacity, numeracy, trust, digital access, income security, and administrative capacity
+  - welfare and distributional sensitivity analysis
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - bounded rationality
+  - satisficing
+  - search costs
+  - cognitive load
+  - decision quality
+  - optimization gap
+  - administrative burden
+  - public policy
+  - organizational economics
+  - consumer protection
+  - platform governance
+  - sustainability governance
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

@@ -1,0 +1,15 @@
+check,description,status
+covariate_controls,Estimate constraint effects with aspiration search cost time capacity numeracy stress trust digital access income security and administrative capacity controls,planned
+aspiration_heterogeneity,Estimate outcomes by aspiration quartile,planned
+search_cost_heterogeneity,Estimate outcomes by search-cost quartile,planned
+capacity_heterogeneity,Estimate outcomes by cognitive-capacity quartile,planned
+time_budget_heterogeneity,Estimate outcomes by time-budget quartile,planned
+stress_heterogeneity,Estimate outcomes by stress quartile,planned
+numeracy_heterogeneity,Estimate outcomes by numeracy quartile,planned
+trust_heterogeneity,Estimate outcomes by institutional-trust quartile,planned
+digital_access_heterogeneity,Estimate outcomes by digital-access quartile,planned
+administrative_capacity_heterogeneity,Estimate outcomes by administrative-capacity quartile,planned
+administrative_burden,Compare high-burden moderate-burden and simplified access regimes,planned
+policy_simplification,Compare status quo plain language prefilled forms and automatic enrollment,planned
+organizational_routines,Compare routine performance in stable and changing environments,planned
+platform_friction,Compare transparent marketplace standard marketplace and dark-pattern design,planned

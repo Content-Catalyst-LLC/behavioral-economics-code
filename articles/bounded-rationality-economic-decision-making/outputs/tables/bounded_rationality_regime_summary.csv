@@ -1,0 +1,4 @@
+regime,agents,mean_chosen_value,mean_optimal_value,mean_net_value,mean_optimization_gap,mean_search_depth,mean_time_used,mean_cognitive_load,mean_stress
+low_constraint,3000,0.760,0.968,0.695,0.208,4.6,4.7,5.7,0.35
+medium_constraint,3000,0.735,0.968,0.650,0.233,5.1,5.2,6.3,0.35
+high_constraint,3000,0.690,0.968,0.575,0.278,5.8,6.0,7.2,0.35
