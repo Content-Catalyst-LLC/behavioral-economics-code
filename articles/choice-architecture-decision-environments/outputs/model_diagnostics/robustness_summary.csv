@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with behavioral and capacity covariates,planned
+heterogeneous_effects,Estimate effects by complexity sensitivity default sensitivity digital literacy and trust,planned
+welfare_weights,Vary cognitive cost and switching cost weights,planned
+behavior_vs_welfare,Compare choice-share effects against realized welfare effects,planned
+distributional_incidence,Assess whether high-complexity-sensitivity users benefit,planned

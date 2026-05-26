@@ -1,23 +1,46 @@
-article_slug: "choice-architecture-decision-environments"
+title: "Choice Architecture and Decision Environments"
+slug: "choice-architecture-decision-environments"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/choice-architecture-decision-environments/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/choice-architecture-decision-environments"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic choice architecture panel data
+  - synthetic randomized decision-environment experiment
+  - default-effect simulations
+  - salience and framing models
+  - cognitive-load diagnostics
+  - switching-cost comparisons
+  - treatment-effect estimation
+  - welfare analysis
+  - heterogeneous treatment effects
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - choice architecture
+  - decision environments
+  - defaults
+  - salience
+  - framing
+  - cognitive load
+  - switching costs
+  - disclosure design
+  - causal inference
+  - welfare analysis
+data:
+  type: "synthetic"
+  operational_use: false
