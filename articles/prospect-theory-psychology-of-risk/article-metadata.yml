@@ -1,23 +1,59 @@
-article_slug: "prospect-theory-psychology-of-risk"
+title: "Prospect Theory: How Humans Evaluate Risk and Uncertainty"
+slug: "prospect-theory-psychology-of-risk"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/prospect-theory-psychology-of-risk/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/prospect-theory-psychology-of-risk"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic prospect-theory panel data
+  - reference-dependent value functions
+  - probability-weighting functions
+  - gain/loss frame simulations
+  - mixed-gamble workflows
+  - expected-utility comparison workflows
+  - prospect-theory / expected-utility disagreement diagnostics
+  - fourfold-pattern simulations
+  - insurance and lottery examples
+  - behavioral-finance and disposition-effect notes
+  - consumer framing workflows
+  - public-policy risk communication examples
+  - sustainability-transition simulations
+  - digital-platform choice-architecture notes
+  - treatment-effect comparisons by frame
+  - heterogeneity by loss aversion, probability weighting, risk aversion, wealth, income security, prior loss exposure, numeracy, and trust
+  - welfare and distributional sensitivity analysis
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - prospect theory
+  - expected utility theory
+  - loss aversion
+  - reference dependence
+  - probability weighting
+  - risk perception
+  - gain and loss framing
+  - mixed gambles
+  - behavioral finance
+  - consumer protection
+  - public policy
+  - sustainability governance
+  - platform governance
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false
