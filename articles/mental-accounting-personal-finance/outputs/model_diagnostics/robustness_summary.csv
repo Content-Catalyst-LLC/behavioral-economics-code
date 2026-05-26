@@ -1,0 +1,9 @@
+check,description,status
+covariate_controls,Estimate treatment effects with household financial covariates,planned
+label_heterogeneity,Estimate effects by savings-label strength quartile,planned
+emergency_risk_heterogeneity,Estimate effects by emergency-risk quartile,planned
+debt_burden_heterogeneity,Estimate effects by debt-burden quartile,planned
+windfall_sensitivity,Vary windfall-spending assumptions,planned
+interest_rate_sensitivity,Vary high-interest debt cost assumptions,planned
+liquidity_sensitivity,Vary protected-liquidity assumptions,planned
+resilience_index,Test alternate welfare/resilience weights,planned

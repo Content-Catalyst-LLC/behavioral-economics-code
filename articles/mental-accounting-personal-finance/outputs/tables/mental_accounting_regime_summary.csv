@@ -1,0 +1,4 @@
+regime,households,mean_windfall_consumption,mean_total_debt_payment,mean_remaining_debt,mean_remaining_liquid_savings,mean_inefficiency_gap,mean_annual_interest_cost,mean_resilience_index
+segmented_mental_accounts,3000,1015.2,1190.5,3310.8,6240.3,2475.6,728.4,5598.7
+integrated_balance_sheet_prompt,3000,735.6,1815.4,2686.1,5794.6,2030.2,590.9,6230.1
+unified_fungible_money,3000,437.9,2635.8,1865.7,5105.2,1422.8,410.5,6829.3

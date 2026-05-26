@@ -1,23 +1,51 @@
-article_slug: "mental-accounting-personal-finance"
+title: "Mental Accounting in Personal Finance"
+slug: "mental-accounting-personal-finance"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/mental-accounting-personal-finance/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/mental-accounting-personal-finance"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic household-finance panel data
+  - synthetic mental-accounting regime experiment
+  - segmented account simulations
+  - integrated balance-sheet prompt workflows
+  - unified fungible-money counterfactuals
+  - windfall-spending diagnostics
+  - debt-savings inefficiency analysis
+  - emergency reserve and liquidity-risk metrics
+  - financial-resilience index
+  - treatment-effect estimation
+  - heterogeneity by savings-label strength and present bias
+  - policy-evaluation notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - mental accounting
+  - money fungibility
+  - household finance
+  - consumer finance
+  - windfalls
+  - labeled savings
+  - credit-card debt
+  - emergency reserves
+  - budgeting apps
+  - digital finance
+  - public policy
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false
