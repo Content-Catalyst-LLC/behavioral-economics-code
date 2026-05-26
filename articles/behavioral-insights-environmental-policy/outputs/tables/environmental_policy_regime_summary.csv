@@ -1,0 +1,4 @@
+regime,adoption_rate,mean_total_welfare,mean_private_benefit,mean_environmental_benefit,mean_fiscal_cost,mean_admin_cost
+integrated_policy_design,0.82,2.10,0.22,0.74,0.05,0.06
+norm_plus_default,0.80,2.06,0.21,0.72,0.00,0.06
+price_signal_only,0.61,1.48,0.16,0.55,0.05,0.07

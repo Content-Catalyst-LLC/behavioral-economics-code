@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with household covariates,planned
+heterogeneous_effects,Estimate effects by income energy burden trust and present bias,planned
+welfare_weights,Vary environmental benefit fiscal cost and administrative cost weights,planned
+adoption_vs_welfare,Compare adoption gains against welfare gains,planned
+distributional_incidence,Assess whether high-energy-burden households benefit,planned
