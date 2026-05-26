@@ -1,0 +1,4 @@
+regime,hhi,top10_share,exposure_gini,mean_user_welfare,mean_platform_value,mean_welfare_platform_gap
+neutral_discovery,0.014,0.18,0.21,0.18,1.35,1.17
+engagement_optimized,0.027,0.31,0.38,0.05,2.45,2.40
+socially_amplified_ranking,0.032,0.36,0.44,0.09,2.15,2.06

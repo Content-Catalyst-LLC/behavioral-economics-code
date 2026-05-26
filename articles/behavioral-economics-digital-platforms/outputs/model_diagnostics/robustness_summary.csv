@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with user covariates,planned
+heterogeneous_effects,Estimate effects by overload privacy and literacy,planned
+welfare_weights,Vary privacy overload and friction weights,planned
+concentration_vs_welfare,Compare exposure concentration against welfare,planned
+social_proof,Test whether social proof explains selection beyond baseline value,planned
