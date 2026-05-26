@@ -1,0 +1,4 @@
+regime,join_rate,retention_rate,mean_user_welfare,mean_platform_value,friction_asymmetry,welfare_platform_gap
+user_supportive_design,0.64,0.33,0.03,1.12,0.00,1.09
+engagement_maximizing_design,0.80,0.52,-0.31,2.01,0.19,2.32
+friction_heavy_lock_in,0.77,0.57,-0.83,2.12,0.58,2.95

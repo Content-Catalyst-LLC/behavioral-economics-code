@@ -1,23 +1,33 @@
-article_slug: "behavioral-design-technology-systems"
+title: "Behavioral Design in Technology Systems"
+slug: "behavioral-design-technology-systems"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/behavioral-design-technology-systems/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/behavioral-design-technology-systems"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "companion scaffold"
 languages:
   - Python
   - R
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+topics:
+  - behavioral economics
+  - behavioral design
+  - technology systems
+  - choice architecture
+  - defaults
+  - friction asymmetry
+  - dark patterns
+  - platform governance
+  - attention architecture
+  - privacy consent
+  - user welfare
+data:
+  type: "synthetic"
+  operational_use: false
