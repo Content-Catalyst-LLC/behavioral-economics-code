@@ -1,0 +1,4 @@
+regime,agents,mean_accumulated_savings,mean_actual_savings,mean_withdrawal,mean_welfare,mean_commitment_cost,mean_automation_strength,mean_flexibility
+low_commitment,3000,5140.5,242.3,58.1,62.8,100,0.15,0.90
+medium_commitment,3000,8350.7,339.8,42.4,91.6,400,0.55,0.65
+high_commitment,3000,10320.2,412.6,21.7,88.4,800,0.85,0.35

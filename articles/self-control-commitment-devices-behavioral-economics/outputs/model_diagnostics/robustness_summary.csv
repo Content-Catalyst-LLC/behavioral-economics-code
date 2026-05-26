@@ -1,0 +1,9 @@
+check,description,status
+covariate_controls,Estimate treatment effects with present bias sophistication liquidity emergency automation and flexibility controls,planned
+present_bias_heterogeneity,Estimate commitment effects by present-bias quartile,planned
+liquidity_heterogeneity,Estimate effects by liquidity-need quartile,planned
+savings_vs_welfare,Compare accumulated savings and welfare outcomes,planned
+commitment_cost_sensitivity,Vary commitment-cost assumptions,planned
+automation_sensitivity,Vary automation-strength assumptions,planned
+flexibility_sensitivity,Vary flexibility assumptions,planned
+hardship_cost,Assess whether strong commitment creates emergency hardship,planned

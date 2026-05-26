@@ -1,23 +1,50 @@
-article_slug: "self-control-commitment-devices-behavioral-economics"
+title: "Self-Control and Commitment Devices in Behavioral Economics"
+slug: "self-control-commitment-devices-behavioral-economics"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/self-control-commitment-devices-behavioral-economics/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/self-control-commitment-devices-behavioral-economics"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic household-finance panel data
+  - synthetic commitment-regime experiment
+  - present-bias simulations
+  - quasi-hyperbolic discounting examples
+  - automatic-enrollment and automation workflows
+  - commitment-cost diagnostics
+  - liquidity and emergency-shock diagnostics
+  - welfare analysis
+  - treatment-effect estimation
+  - heterogeneous effects by present bias and sophistication
+  - policy-evaluation notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - self-control
+  - commitment devices
+  - present bias
+  - hyperbolic discounting
+  - time inconsistency
+  - household finance
+  - savings
+  - public policy
+  - digital platforms
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false
