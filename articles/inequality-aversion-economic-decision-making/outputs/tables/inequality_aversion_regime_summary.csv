@@ -1,0 +1,4 @@
+regime,mean_self_payoff,mean_social_preference_utility,rejection_rate,redistribution_support_rate,mean_process_legitimacy,mean_total_welfare
+equal_distribution,0.50,0.50,0.16,0.67,0.83,1.02
+advantageous_inequality,0.70,0.46,0.24,0.71,0.58,1.03
+disadvantageous_inequality,0.30,-0.30,0.45,0.78,0.50,0.13

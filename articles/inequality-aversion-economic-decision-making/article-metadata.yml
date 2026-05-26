@@ -1,23 +1,47 @@
-article_slug: "inequality-aversion-economic-decision-making"
+title: "Inequality Aversion in Economic Decision-Making"
+slug: "inequality-aversion-economic-decision-making"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/inequality-aversion-economic-decision-making/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/inequality-aversion-economic-decision-making"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic inequality-aversion panel data
+  - synthetic randomized distributional-regime experiment
+  - Fehr-Schmidt utility functions
+  - ERC relative-share diagnostics
+  - ultimatum-style bargaining simulation
+  - redistribution and tax-rate simulation
+  - wage-fairness scaffolding
+  - treatment-effect estimation
+  - welfare analysis
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - inequality aversion
+  - social preferences
+  - Fehr-Schmidt model
+  - ERC model
+  - bargaining
+  - redistribution
+  - taxation
+  - wage fairness
+  - political economy
+  - causal inference
+  - welfare analysis
+data:
+  type: "synthetic"
+  operational_use: false

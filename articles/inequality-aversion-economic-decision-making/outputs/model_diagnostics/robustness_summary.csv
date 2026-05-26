@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with alpha beta merit belief redistribution norm and institutional trust controls,planned
+heterogeneous_effects,Estimate effects by alpha beta merit belief redistribution norm and institutional trust quartiles,planned
+welfare_weights,Vary social-preference legitimacy and rejection-cost weights,planned
+material_vs_social_welfare,Compare material payoff rankings against social-preference welfare rankings,planned
+distributional_incidence,Assess whether high-alpha and high-beta groups respond differently,planned
