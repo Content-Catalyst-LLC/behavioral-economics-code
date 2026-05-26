@@ -1,0 +1,12 @@
+check,description,status
+covariate_controls,Estimate treatment effects with anchor value adjustment numeracy confidence load knowledge disclosure and counter-anchor support controls,planned
+adjustment_heterogeneity,Estimate effects by effective-adjustment quartile,planned
+numeracy_heterogeneity,Estimate effects by numeracy quartile,planned
+knowledge_heterogeneity,Estimate effects by domain-knowledge quartile,planned
+load_heterogeneity,Estimate effects by cognitive-load quartile,planned
+confidence_heterogeneity,Estimate effects by confidence quartile,planned
+bias_vs_absolute_error,Compare directional bias and absolute error,planned
+disclosure_sensitivity,Vary disclosure-quality assumptions,planned
+counter_anchor_sensitivity,Vary counter-anchor-support assumptions,planned
+anchor_distance_sensitivity,Vary distance between anchor and true value,planned
+welfare_sensitivity,Vary weights on accuracy autonomy and burden,planned

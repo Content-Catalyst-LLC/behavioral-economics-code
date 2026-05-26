@@ -1,23 +1,58 @@
-article_slug: "anchoring-bias-economic-judgment"
+title: "Anchoring Bias in Economic Judgment"
+slug: "anchoring-bias-economic-judgment"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/anchoring-bias-economic-judgment/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/anchoring-bias-economic-judgment"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic anchoring-regime panel data
+  - high-anchor and low-anchor simulations
+  - neutral-anchor and counter-context regimes
+  - incomplete-adjustment models
+  - reference-price diagnostics
+  - negotiation-anchor examples
+  - wage-bargaining and salary-band scaffolds
+  - housing-appraisal examples
+  - policy-benchmark analysis
+  - sustainability-baseline notes
+  - digital-platform and algorithmic-anchor notes
+  - treatment-effect estimation
+  - heterogeneity by adjustment rate, numeracy, domain knowledge, cognitive load, and confidence
+  - decision-quality and welfare proxy analysis
+  - policy-evaluation notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - anchoring bias
+  - economic judgment
+  - incomplete adjustment
+  - reference prices
+  - negotiation
+  - wage bargaining
+  - housing appraisal
+  - behavioral finance
+  - consumer protection
+  - digital platforms
+  - algorithmic estimates
+  - sustainability baselines
+  - public policy
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false
