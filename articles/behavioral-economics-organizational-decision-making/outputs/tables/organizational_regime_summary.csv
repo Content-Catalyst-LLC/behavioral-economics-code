@@ -1,0 +1,4 @@
+regime,approval_rate,mean_approval_prob,mean_welfare,escalation_prone_approval_rate
+high_accountability_adaptive_review,0.47,0.48,-0.06,0.08
+balanced_governance,0.51,0.52,-0.08,0.12
+metric_heavy_short_termism,0.58,0.58,-0.12,0.18

@@ -1,23 +1,33 @@
-article_slug: "behavioral-economics-organizational-decision-making"
+title: "Behavioral Economics in Organizational Decision-Making"
+slug: "behavioral-economics-organizational-decision-making"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/behavioral-economics-organizational-decision-making/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/behavioral-economics-organizational-decision-making"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "companion scaffold"
 languages:
   - Python
   - R
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+topics:
+  - behavioral economics
+  - organizational decision-making
+  - bounded rationality
+  - incentives
+  - metrics
+  - escalation of commitment
+  - sunk cost
+  - group dynamics
+  - institutional design
+  - organizational governance
+  - sustainability decision-making
+data:
+  type: "synthetic"
+  operational_use: false
