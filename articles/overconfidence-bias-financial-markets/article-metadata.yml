@@ -1,23 +1,49 @@
-article_slug: "overconfidence-bias-financial-markets"
+title: "Overconfidence Bias in Financial Markets"
+slug: "overconfidence-bias-financial-markets"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/overconfidence-bias-financial-markets/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/overconfidence-bias-financial-markets"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional behavioral-finance companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic investor-panel data
+  - synthetic overconfidence-regime experiment
+  - perceived versus true signal precision models
+  - turnover and trading-cost diagnostics
+  - net-return and portfolio-drag analysis
+  - leverage-access sensitivity
+  - platform-friction sensitivity
+  - performance-attribution workflow
+  - treatment-effect estimation
+  - investor-protection notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - behavioral finance
+  - overconfidence bias
+  - trading frequency
+  - turnover
+  - portfolio drag
+  - signal precision
+  - leverage
+  - platform design
+  - investor protection
+  - financial stability
+  - causal inference
+  - risk governance
+data:
+  type: "synthetic"
+  operational_use: false

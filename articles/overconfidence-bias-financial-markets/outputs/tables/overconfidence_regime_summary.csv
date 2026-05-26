@@ -1,0 +1,4 @@
+regime,mean_trade_intensity,mean_trading_cost,mean_gross_position_return,mean_realized_return,volatility_realized_return,mean_abs_perceived_signal,mean_portfolio_drag,return_to_turnover_ratio
+calibrated_confidence,0.064,0.000160,0.000260,0.000100,0.0048,0.071,0.000160,0.00156
+moderate_overconfidence,0.107,0.000268,0.000305,0.000037,0.0075,0.103,0.000268,0.00035
+high_overconfidence_low_friction,0.185,0.000333,0.000318,-0.000015,0.0124,0.149,0.000333,-0.00008

@@ -1,0 +1,9 @@
+check,description,status
+covariate_controls,Estimate treatment effects with friction and leverage controls,planned
+turnover_costs,Compare turnover and trading-cost drag by regime,planned
+gross_vs_net,Compare gross position returns to net realized returns,planned
+friction_sensitivity,Vary trading-friction assumptions,planned
+leverage_sensitivity,Vary leverage-access assumptions,planned
+success_feedback,Vary prior-success feedback assumptions,planned
+signal_quality,Assess robustness to signal-quality dispersion,planned
+performance_attribution,Decompose observed returns into beta factor alpha and noise,planned
