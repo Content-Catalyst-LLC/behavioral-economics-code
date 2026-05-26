@@ -1,23 +1,45 @@
-article_slug: "behavioral-regulation-institutional-design"
+title: "Behavioral Regulation and Institutional Design"
+slug: "behavioral-regulation-institutional-design"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/behavioral-regulation-institutional-design/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/behavioral-regulation-institutional-design"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic regulatory policy panel data
+  - synthetic randomized regulatory policy experiment
+  - treatment-effect estimation
+  - welfare analysis
+  - administrative-burden diagnostics
+  - distributional analysis
+  - identification strategy
+  - robustness checks
+  - replication workflow
+  - Stata/R/Python policy evaluation
+topics:
+  - behavioral economics
+  - regulatory economics
+  - public economics
+  - institutional design
+  - administrative burden
+  - compliance
+  - deterrence
+  - trust
+  - legitimacy
+  - causal inference
+  - welfare analysis
+data:
+  type: "synthetic"
+  operational_use: false

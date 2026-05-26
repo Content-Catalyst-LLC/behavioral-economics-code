@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with behavioral and capacity covariates,planned
+heterogeneous_effects,Estimate effects by trust burden sensitivity capacity and noncompliance gain,planned
+welfare_weights,Vary social benefit administrative cost and enforcement cost weights,planned
+compliance_vs_welfare,Compare compliance gains against welfare gains,planned
+distributional_incidence,Assess whether high-burden agents benefit,planned
