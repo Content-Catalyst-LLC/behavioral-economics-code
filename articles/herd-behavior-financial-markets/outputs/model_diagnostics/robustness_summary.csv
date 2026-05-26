@@ -1,0 +1,8 @@
+check,description,status
+covariate_controls,Estimate treatment effects with liquidity leverage social-media and post-shock controls,planned
+shock_window,Compare pre-shock and post-shock regime outcomes,planned
+liquidity_sensitivity,Vary liquidity-depth assumptions,planned
+leverage_sensitivity,Vary leverage-pressure assumptions,planned
+social_signal_sensitivity,Vary social-media intensity and herd-weight assumptions,planned
+private_information_quality,Assess robustness to private-signal quality assumptions,planned
+systemic_risk,Compare crowded exposure leverage and liquidity risk proxy,planned

@@ -1,23 +1,48 @@
-article_slug: "herd-behavior-financial-markets"
+title: "Herd Behavior in Financial Markets"
+slug: "herd-behavior-financial-markets"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/herd-behavior-financial-markets/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/herd-behavior-financial-markets"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic herd-market panel data
+  - synthetic market-regime experiment
+  - informational-cascade simulation
+  - herding and price-deviation models
+  - liquidity and leverage stress tests
+  - social-media amplification diagnostics
+  - crowded-trade metrics
+  - treatment-effect estimation
+  - financial-stability analysis
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - behavioral finance
+  - herd behavior
+  - informational cascades
+  - market bubbles
+  - market crashes
+  - liquidity risk
+  - leverage
+  - social media
+  - market microstructure
+  - financial stability
+  - causal inference
+  - risk analysis
+data:
+  type: "synthetic"
+  operational_use: false
