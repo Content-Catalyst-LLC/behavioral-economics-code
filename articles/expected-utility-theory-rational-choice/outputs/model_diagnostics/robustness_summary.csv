@@ -1,0 +1,12 @@
+check,description,status
+covariate_controls,Estimate risky choice certainty equivalents and risk premia with wealth rho numeracy liquidity and trust controls,planned
+risk_aversion_heterogeneity,Estimate outcomes by risk-aversion quartile,planned
+wealth_heterogeneity,Estimate outcomes by wealth quartile,planned
+numeracy_heterogeneity,Estimate outcomes by numeracy quartile,planned
+liquidity_heterogeneity,Estimate outcomes by liquidity-constraint quartile,planned
+trust_heterogeneity,Estimate outcomes by trust quartile,planned
+crra_cara_comparison,Compare CRRA and CARA utility assumptions,planned
+insurance_loading_sensitivity,Vary insurance premium loading,planned
+catastrophic_loss_sensitivity,Vary low-probability high-damage policy risk,planned
+discount_factor_sensitivity,Vary sustainability-policy discount factors,planned
+behavioral_overlay,Compare formal expected-utility prediction with observed-choice friction overlay,planned

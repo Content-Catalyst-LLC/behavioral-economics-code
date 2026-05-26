@@ -1,0 +1,4 @@
+regime,agents,mean_wealth,mean_rho,share_choose_risky_eu,share_choose_risky_observed,mean_certainty_equivalent,mean_risk_premium
+low_risk_aversion,3000,52500,0.45,1.000,0.830,129.98,0.02
+medium_risk_aversion,3000,52500,1.15,1.000,0.830,129.95,0.05
+high_risk_aversion,3000,52500,2.25,0.980,0.815,129.90,0.10
