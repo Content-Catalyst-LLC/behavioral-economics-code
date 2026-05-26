@@ -2,9 +2,16 @@ from pathlib import Path
 import runpy
 
 
-def test_python_workflow_runs():
-    script = Path(__file__).resolve().parents[1] / "python" / "interface_regime_simulation.py"
-    assert script.exists()
+def test_synthetic_data_generator_runs():
+    script = Path(__file__).resolve().parents[1] / "python" / "generate_synthetic_interface_panel.py"
     runpy.run_path(str(script), run_name="__main__")
-    output = Path(__file__).resolve().parents[1] / "outputs" / "tables" / "interface_regime_comparison.csv"
+    output = Path(__file__).resolve().parents[1] / "outputs" / "tables" / "synthetic_interface_experiment.csv"
+    assert output.exists()
+
+
+def test_policy_evaluation_runs_after_data_generation():
+    root = Path(__file__).resolve().parents[1]
+    runpy.run_path(str(root / "python" / "generate_synthetic_interface_panel.py"), run_name="__main__")
+    runpy.run_path(str(root / "python" / "causal_interface_policy_evaluation.py"), run_name="__main__")
+    output = root / "outputs" / "regression_tables" / "python_treatment_effects.csv"
     assert output.exists()

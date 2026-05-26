@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with user covariates,planned
+heterogeneous_effects,Estimate effects by cognitive overload and privacy sensitivity,planned
+welfare_weights,Vary autonomy privacy and overload weights,planned
+retention_vs_welfare,Compare retention gains against welfare losses,planned
+friction_asymmetry,Test whether exit friction explains retention,planned

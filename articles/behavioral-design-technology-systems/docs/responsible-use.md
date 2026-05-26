@@ -1,15 +1,14 @@
 # Responsible Use
 
-This article scaffold supports synthetic-data research and reproducible learning about behavioral design in technology systems.
+This scaffold supports synthetic-data research and reproducible learning about behavioral design in technology systems.
 
 Appropriate uses include:
 
-- public learning
-- synthetic scenario analysis
-- interface ethics research
-- dark-pattern diagnostics
-- computational methods demonstration
-- product-governance discussion
+- applied behavioral-economics teaching
+- policy-evaluation methods demonstration
+- consumer-protection research scaffolding
+- welfare-analysis prototyping
+- dark-pattern diagnostic research
 - reproducible documentation practice
 
 Inappropriate uses include:
@@ -17,8 +16,8 @@ Inappropriate uses include:
 - dark-pattern optimization
 - manipulative user targeting
 - coercive personalization
-- surveillance
 - addictive engagement design
+- surveillance
 - privacy-hostile consent design
 - operational user scoring
 - production deployment without legal, ethical, accessibility, and empirical review

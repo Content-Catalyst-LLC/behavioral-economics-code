@@ -4,10 +4,11 @@ series: "Behavioral Economics"
 article_url: "https://sustainablecatalyst.com/behavioral-design-technology-systems/"
 github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/behavioral-design-technology-systems"
 repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
-status: "companion scaffold"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
   - SQL
   - C
@@ -16,18 +17,27 @@ languages:
   - Rust
   - Go
   - Jupyter Notebook
+research_assets:
+  - synthetic panel data
+  - synthetic randomized interface experiment
+  - treatment-effect estimation
+  - welfare analysis
+  - identification strategy
+  - robustness checks
+  - replication workflow
+  - econometric documentation
 topics:
   - behavioral economics
+  - platform economics
+  - consumer protection
   - behavioral design
-  - technology systems
-  - choice architecture
+  - digital choice architecture
   - defaults
   - friction asymmetry
   - dark patterns
-  - platform governance
-  - attention architecture
-  - privacy consent
-  - user welfare
+  - welfare analysis
+  - causal inference
+  - policy evaluation
 data:
   type: "synthetic"
   operational_use: false

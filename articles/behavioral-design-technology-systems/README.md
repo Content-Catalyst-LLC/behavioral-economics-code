@@ -7,31 +7,57 @@ Repository folder: https://github.com/Content-Catalyst-LLC/behavioral-economics-
 
 ## Purpose
 
-This folder provides a reproducible computational scaffold for studying behavioral design in technology systems: defaults, salience, friction asymmetry, retention dynamics, dark-pattern risk, privacy-consent burden, engagement optimization, platform value, autonomy costs, and user-welfare trade-offs.
+This is an economist-facing computational scaffold for studying behavioral design in digital technology systems. It focuses on defaults, salience, friction asymmetry, dark-pattern risk, privacy-consent burden, user welfare, platform value, and policy-relevant interface regimes.
 
-The examples use synthetic data only. They are designed for research demonstration, public learning, scenario comparison, and reproducible methods development.
+The scaffold is designed for applied behavioral economics, policy evaluation, consumer-protection analysis, platform governance research, and reproducible teaching examples.
 
-## Scope
+## Research questions
 
-The scaffold includes:
+This repository is organized around questions economists and policy researchers can test:
 
-- synthetic user-interface behavior data
-- R and Python workflows for defaults, friction, retention, welfare, and dark-pattern diagnostics
-- SQL schema for interface-regime experiments
-- Julia, C, C++, Fortran, Rust, and Go examples for lightweight computational modeling
-- notebook scaffolding for reproducible analysis
-- documentation for methods, validation, data structure, and responsible use
+1. Do interface defaults causally increase consent, conversion, or retention?
+2. Does exit friction raise retention without improving user welfare?
+3. Are cognitively overloaded users more affected by manipulative design?
+4. How large is the gap between platform value and user welfare across interface regimes?
+5. Do user-supportive designs perform differently from engagement-maximizing or lock-in designs?
+6. Which robustness checks change the estimated treatment effect of behavioral interface features?
+
+## Econometric design
+
+The scaffold includes synthetic panel and experiment-style data that support:
+
+- randomized interface-regime comparisons
+- treatment-effect estimation
+- difference-in-differences style panel workflows
+- heterogeneous treatment effects by overload, privacy sensitivity, and autonomy preference
+- welfare analysis comparing user welfare and platform value
+- robustness and sensitivity checks
+- Stata, R, Python, Julia, SQL, and systems-language examples
 
 ## Responsible use
 
-This repository is for synthetic-data research, methods demonstration, institutional learning, and reproducible analysis of behavioral design. It is not intended for manipulative targeting, dark-pattern optimization, surveillance, coercive personalization, or operational user scoring.
+This repository is for synthetic-data research, methods demonstration, institutional learning, and reproducible analysis of behavioral design. It is not intended for manipulative targeting, dark-pattern optimization, surveillance, coercive personalization, addictive engagement design, privacy-hostile consent design, or operational user scoring.
 
-## Suggested workflow
+## Suggested replication workflow
 
 ```bash
 cd ~/Downloads/behavioral-economics-code/articles/behavioral-design-technology-systems
-python3 python/interface_regime_simulation.py
-Rscript r/default_friction_retention_simulation.R
+
+# Generate synthetic economist-facing panel and experiment data
+python3 python/generate_synthetic_interface_panel.py
+
+# Run Python policy evaluation and welfare analysis
+python3 python/causal_interface_policy_evaluation.py
+python3 python/welfare_analysis.py
+
+# Run R policy evaluation and robustness checks
+Rscript r/interface_policy_evaluation.R
+Rscript r/welfare_robustness_checks.R
+
+# Run Stata workflow manually from Stata
+# do stata/interface_policy_evaluation.do
+
+# Build SQL database
 sqlite3 outputs/tables/behavioral_design_technology.db < sql/schema.sql
 ```
 
@@ -46,8 +72,11 @@ notebooks/
 outputs/
   figures/
   tables/
+  regression_tables/
+  model_diagnostics/
 python/
 r/
+stata/
 julia/
 sql/
 c/

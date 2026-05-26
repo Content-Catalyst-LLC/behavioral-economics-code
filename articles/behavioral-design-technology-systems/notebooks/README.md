@@ -1,11 +1,10 @@
 # Notebooks
 
-This folder is reserved for reproducible notebooks connected to the article.
-
 Suggested notebooks:
 
-1. `01_interface_regime_comparison.ipynb`
-2. `02_friction_asymmetry_and_dark_patterns.ipynb`
-3. `03_overload_privacy_and_autonomy_distribution.ipynb`
+1. `01_interface_policy_evaluation.ipynb`
+2. `02_welfare_platform_gap_analysis.ipynb`
+3. `03_heterogeneous_treatment_effects.ipynb`
+4. `04_dark_pattern_risk_diagnostics.ipynb`
 
-The repository keeps notebook outputs separate from source scripts so that tables, figures, and data artifacts can be regenerated from the command line.
+The repository keeps source scripts as the primary reproducibility layer. Notebooks should be used for exploration, teaching, and communication.
