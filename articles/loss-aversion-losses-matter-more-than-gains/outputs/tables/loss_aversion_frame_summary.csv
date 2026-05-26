@@ -1,0 +1,4 @@
+frame,agents,share_choose_risky,mean_sure_value,mean_risky_value,mean_lambda,mean_income_security
+gain,3000,0.120,106.0,91.0,2.0,0.55
+loss,3000,0.840,-605.0,-560.0,2.0,0.55
+mixed_gamble,3000,0.720,0.0,24.0,2.0,0.55

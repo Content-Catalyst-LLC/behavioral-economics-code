@@ -1,0 +1,57 @@
+title: "Loss Aversion: Why Losses Matter More Than Gains"
+slug: "loss-aversion-losses-matter-more-than-gains"
+series: "Behavioral Economics"
+article_url: "https://sustainablecatalyst.com/loss-aversion-losses-matter-more-than-gains/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/loss-aversion-losses-matter-more-than-gains"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
+languages:
+  - Python
+  - R
+  - Stata
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Rust
+  - Go
+  - Jupyter Notebook
+research_assets:
+  - synthetic loss-aversion panel data
+  - prospect-theory value functions
+  - gain/loss frame simulations
+  - mixed-gamble acceptance models
+  - reference-point sensitivity analysis
+  - disposition-effect simulation
+  - endowment-effect examples
+  - consumer loss-framing workflows
+  - labor-market and wage-bargaining notes
+  - policy-transition loss-distribution models
+  - sustainability-transition simulations
+  - digital-platform loss-framing notes
+  - treatment-effect comparisons by frame
+  - heterogeneity by loss aversion, income security, prior loss exposure, numeracy, and trust
+  - welfare and distributional sensitivity analysis
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - loss aversion
+  - prospect theory
+  - reference dependence
+  - risky choice
+  - gain and loss framing
+  - disposition effect
+  - endowment effect
+  - consumer protection
+  - behavioral finance
+  - labor economics
+  - public policy
+  - sustainability governance
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

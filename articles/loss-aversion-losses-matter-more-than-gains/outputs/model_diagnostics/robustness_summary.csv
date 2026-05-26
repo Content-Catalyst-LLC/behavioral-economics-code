@@ -1,0 +1,12 @@
+check,description,status
+covariate_controls,Estimate frame effects with lambda alpha beta numeracy income security prior loss exposure and trust controls,planned
+lambda_heterogeneity,Estimate outcomes by loss-aversion quartile,planned
+security_heterogeneity,Estimate outcomes by income-security quartile,planned
+numeracy_heterogeneity,Estimate outcomes by numeracy quartile,planned
+trust_heterogeneity,Estimate outcomes by trust quartile,planned
+prior_loss_heterogeneity,Estimate effects by prior-loss exposure,planned
+reference_point_sensitivity,Vary reference points,planned
+gain_loss_ratio_sensitivity,Vary gains and losses in mixed gambles,planned
+disposition_effect_controls,Control for taxes liquidity confidence and momentum proxies,planned
+endowment_effect_sensitivity,Vary ownership assignment and market values,planned
+policy_transition_distribution,Vary transition support and distributional weights,planned
