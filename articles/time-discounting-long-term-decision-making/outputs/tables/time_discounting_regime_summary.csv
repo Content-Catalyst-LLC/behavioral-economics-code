@@ -1,0 +1,4 @@
+regime,agents,mean_choose_delayed,mean_cumulative_delayed_choices,mean_cumulative_welfare,mean_commitment_support,mean_flexibility
+exponential_discounting,3000,0.68,24.4,3840.8,0.00,1.00
+present_biased_discounting,3000,0.49,17.6,2765.1,0.00,1.00
+present_bias_with_commitment_support,3000,0.63,22.7,3548.5,0.70,0.75

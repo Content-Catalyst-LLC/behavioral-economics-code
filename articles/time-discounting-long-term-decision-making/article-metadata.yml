@@ -1,23 +1,56 @@
-article_slug: "time-discounting-long-term-decision-making"
+title: "Time Discounting and Long-Term Decision-Making"
+slug: "time-discounting-long-term-decision-making"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/time-discounting-long-term-decision-making/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/time-discounting-long-term-decision-making"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic intertemporal-choice panel data
+  - synthetic time-discounting regime experiment
+  - exponential discounting examples
+  - present-biased discounting simulations
+  - quasi-hyperbolic discounting examples
+  - delayed-choice models
+  - commitment-support diagnostics
+  - present-value and discount-rate sensitivity workflows
+  - welfare and flexibility analysis
+  - treatment-effect estimation
+  - heterogeneity by present bias, sophistication, liquidity need, and discount factor
+  - policy-evaluation notes
+  - sustainability governance notes
+  - digital-platform immediacy notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - time discounting
+  - intertemporal choice
+  - exponential discounting
+  - hyperbolic discounting
+  - quasi-hyperbolic discounting
+  - present bias
+  - delayed gratification
+  - self-control
+  - commitment devices
+  - sustainability policy
+  - climate economics
+  - digital platforms
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

@@ -1,0 +1,10 @@
+check,description,status
+covariate_controls,Estimate treatment effects with beta delta sophistication liquidity rewards support and flexibility controls,planned
+present_bias_heterogeneity,Estimate effects by beta quartile,planned
+discount_factor_heterogeneity,Estimate effects by delta quartile,planned
+liquidity_heterogeneity,Estimate effects by liquidity-need quartile,planned
+future_goal_heterogeneity,Estimate effects by future-goal-value quartile,planned
+welfare_vs_choice,Compare delayed-choice changes and welfare changes,planned
+discount_rate_sensitivity,Vary present-value discount rates for public goods,planned
+commitment_support_sensitivity,Vary commitment-support assumptions,planned
+flexibility_sensitivity,Vary flexibility assumptions,planned
