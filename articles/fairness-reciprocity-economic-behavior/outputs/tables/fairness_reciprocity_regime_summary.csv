@@ -1,0 +1,5 @@
+regime,mean_self_payoff,mean_fairness_reciprocity_utility,rejection_rate,punishment_rate,cooperation_rate,mean_process_fairness,mean_total_welfare
+fair_cooperative_regime,0.50,1.15,0.15,0.04,0.74,0.85,1.44
+unequal_but_cooperative_regime,0.35,0.60,0.28,0.08,0.64,0.70,0.78
+unequal_noncooperative_regime,0.35,-0.05,0.42,0.16,0.39,0.45,-0.03
+exploitative_low_process_fairness_regime,0.25,-0.64,0.58,0.28,0.26,0.25,-0.65

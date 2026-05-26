@@ -1,23 +1,48 @@
-article_slug: "fairness-reciprocity-economic-behavior"
+title: "Fairness and Reciprocity in Economic Behavior"
+slug: "fairness-reciprocity-economic-behavior"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/fairness-reciprocity-economic-behavior/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/fairness-reciprocity-economic-behavior"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic fairness and reciprocity panel data
+  - synthetic randomized fairness-regime experiment
+  - fairness-adjusted utility functions
+  - reciprocity-adjusted utility functions
+  - bargaining and rejection simulation
+  - costly punishment simulation
+  - process-fairness diagnostics
+  - treatment-effect estimation
+  - welfare analysis
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - fairness
+  - reciprocity
+  - social preferences
+  - behavioral game theory
+  - bargaining
+  - punishment
+  - trust
+  - process legitimacy
+  - public goods
+  - institutional economics
+  - causal inference
+  - welfare analysis
+data:
+  type: "synthetic"
+  operational_use: false

@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with fairness reciprocity trust punishment and process-fairness controls,planned
+heterogeneous_effects,Estimate effects by fairness reciprocity trust punishment and process-fairness quartiles,planned
+welfare_weights,Vary process-fairness rejection-cost and punishment-cost weights,planned
+material_vs_social_welfare,Compare material payoff rankings against fairness-reciprocity utility rankings,planned
+distributional_incidence,Assess whether high-fairness-sensitivity groups respond differently,planned
