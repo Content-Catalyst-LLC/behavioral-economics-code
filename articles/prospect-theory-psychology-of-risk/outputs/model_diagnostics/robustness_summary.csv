@@ -1,0 +1,15 @@
+check,description,status
+covariate_controls,Estimate frame effects with lambda alpha beta gamma rho wealth numeracy security trust and prior-loss controls,planned
+pt_eu_comparison,Compare prospect-theory and expected-utility predictions,planned
+lambda_heterogeneity,Estimate outcomes by loss-aversion quartile,planned
+gamma_heterogeneity,Estimate outcomes by probability-weighting quartile,planned
+rho_heterogeneity,Estimate outcomes by CRRA risk-aversion quartile,planned
+wealth_heterogeneity,Estimate outcomes by wealth quartile,planned
+security_heterogeneity,Estimate outcomes by income-security quartile,planned
+trust_heterogeneity,Estimate outcomes by trust quartile,planned
+prior_loss_heterogeneity,Estimate outcomes by prior-loss exposure,planned
+reference_point_sensitivity,Vary reference points,planned
+gain_loss_ratio_sensitivity,Vary mixed-gamble gains and losses,planned
+probability_weighting_sensitivity,Vary probability-weighting curvature,planned
+fourfold_pattern,Estimate fourfold gain/loss high/low probability patterns,planned
+welfare_sensitivity,Compare behavior change with welfare and distributional impacts,planned

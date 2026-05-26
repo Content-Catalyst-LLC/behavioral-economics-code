@@ -1,0 +1,4 @@
+frame,agents,share_choose_risky_pt,share_choose_risky_eu,disagreement_rate,mean_pt_risky_value,mean_lambda,mean_gamma,mean_income_security
+gain,3000,0.130,0.980,0.850,91.0,2.0,0.775,0.55
+loss,3000,0.840,0.520,0.320,-560.0,2.0,0.775,0.55
+mixed_gamble,3000,0.720,0.990,0.270,24.0,2.0,0.775,0.55
