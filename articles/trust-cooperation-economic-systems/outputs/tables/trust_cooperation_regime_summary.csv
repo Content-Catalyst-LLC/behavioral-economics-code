@@ -1,0 +1,4 @@
+regime,trust_rate,reciprocity_rate,punishment_rate,mean_transaction_cost_reduction,mean_monitoring_cost,mean_total_welfare
+institutionally_supported_cooperation,0.78,0.70,0.10,0.63,0.06,0.86
+reciprocal_market_exchange,0.70,0.63,0.12,0.46,0.11,0.48
+low_trust_exchange,0.58,0.53,0.13,0.24,0.19,-0.09

@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with trust reciprocity punishment and monitoring covariates,planned
+heterogeneous_effects,Estimate effects by trust propensity institutional trust betrayal sensitivity and reciprocity,planned
+welfare_weights,Vary betrayal cost monitoring cost and transaction cost reduction weights,planned
+trust_vs_welfare,Compare trust effects against welfare effects,planned
+distributional_incidence,Assess whether low-trust and high-betrayal-sensitivity groups benefit,planned
