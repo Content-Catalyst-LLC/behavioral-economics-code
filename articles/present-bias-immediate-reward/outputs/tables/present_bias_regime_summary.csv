@@ -1,0 +1,4 @@
+regime,agents,mean_choose_delayed,mean_cumulative_delayed_choices,mean_cumulative_welfare,mean_commitment_cost,mean_reminder_strength,mean_flexibility
+weak_commitment,3000,0.42,14.7,2320.5,20,0.10,0.95
+medium_commitment,3000,0.61,21.4,3368.2,70,0.45,0.75
+strong_commitment,3000,0.74,25.8,3496.7,140,0.80,0.55

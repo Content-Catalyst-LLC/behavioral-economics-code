@@ -1,23 +1,51 @@
-article_slug: "present-bias-immediate-reward"
+title: "Present Bias and the Psychology of Immediate Reward"
+slug: "present-bias-immediate-reward"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/present-bias-immediate-reward/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/present-bias-immediate-reward"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic intertemporal-choice panel data
+  - synthetic present-bias commitment-regime experiment
+  - quasi-hyperbolic discounting examples
+  - delayed-choice simulations
+  - immediate temptation and future-goal models
+  - commitment-regime diagnostics
+  - reminder and automation support workflows
+  - welfare and flexibility analysis
+  - treatment-effect estimation
+  - heterogeneity by present bias, sophistication, and liquidity need
+  - policy-evaluation notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - present bias
+  - immediate reward
+  - intertemporal choice
+  - hyperbolic discounting
+  - quasi-hyperbolic discounting
+  - time inconsistency
+  - self-control
+  - commitment devices
+  - digital platforms
+  - sustainability policy
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

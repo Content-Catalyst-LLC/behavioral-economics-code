@@ -1,0 +1,9 @@
+check,description,status
+covariate_controls,Estimate treatment effects with beta delta sophistication liquidity temptation and commitment controls,planned
+present_bias_heterogeneity,Estimate effects by beta quartile,planned
+liquidity_heterogeneity,Estimate effects by liquidity-need quartile,planned
+temptation_heterogeneity,Estimate effects by temptation-strength quartile,planned
+welfare_vs_choice,Compare delayed-choice changes and welfare changes,planned
+commitment_cost_sensitivity,Vary commitment-cost assumptions,planned
+reminder_sensitivity,Vary reminder-strength assumptions,planned
+flexibility_sensitivity,Vary flexibility assumptions,planned
