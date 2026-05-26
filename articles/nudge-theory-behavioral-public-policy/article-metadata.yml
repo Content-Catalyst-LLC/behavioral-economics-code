@@ -1,23 +1,45 @@
-article_slug: "nudge-theory-behavioral-public-policy"
+title: "Nudge Theory and Behavioral Public Policy"
+slug: "nudge-theory-behavioral-public-policy"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/nudge-theory-behavioral-public-policy/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/nudge-theory-behavioral-public-policy"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic nudge policy panel data
+  - synthetic randomized nudge experiment
+  - default-effect simulations
+  - reminder and social-norm models
+  - administrative-burden diagnostics
+  - present-bias heterogeneity
+  - treatment-effect estimation
+  - welfare analysis
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - nudge theory
+  - behavioral public policy
+  - choice architecture
+  - defaults
+  - reminders
+  - social norms
+  - administrative burden
+  - present bias
+  - causal inference
+  - welfare analysis
+data:
+  type: "synthetic"
+  operational_use: false

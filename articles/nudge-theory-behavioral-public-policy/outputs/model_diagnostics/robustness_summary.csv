@@ -1,0 +1,6 @@
+check,description,status
+covariate_controls,Estimate treatment effects with behavioral and burden covariates,planned
+heterogeneous_effects,Estimate effects by present bias burden sensitivity default sensitivity and trust,planned
+welfare_weights,Vary user benefit social benefit friction cost and administrative cost weights,planned
+behavior_vs_welfare,Compare uptake effects against welfare effects,planned
+distributional_incidence,Assess whether high-burden and high-present-bias agents benefit,planned
