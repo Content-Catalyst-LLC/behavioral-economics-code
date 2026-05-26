@@ -1,0 +1,11 @@
+check,description,status
+covariate_controls,Estimate treatment effects with loss aversion curvature numeracy trust fatigue frame strength disclosure and salience controls,planned
+loss_aversion_heterogeneity,Estimate effects by loss-aversion quartile,planned
+numeracy_heterogeneity,Estimate effects by numeracy quartile,planned
+trust_heterogeneity,Estimate effects by trust quartile,planned
+fatigue_heterogeneity,Estimate effects by decision-fatigue quartile,planned
+choice_vs_comprehension,Compare behavior change and comprehension change,planned
+frame_strength_sensitivity,Vary frame-strength assumptions,planned
+disclosure_sensitivity,Vary disclosure-quality assumptions,planned
+salience_sensitivity,Vary salience assumptions,planned
+welfare_sensitivity,Vary weights on comprehension autonomy and manipulation risk,planned

@@ -1,23 +1,57 @@
-article_slug: "framing-effects-consumer-choice"
+title: "Framing Effects in Consumer Choice"
+slug: "framing-effects-consumer-choice"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/framing-effects-consumer-choice/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/framing-effects-consumer-choice"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic framing-regime panel data
+  - gain-frame and loss-frame simulations
+  - balanced absolute-risk frame examples
+  - prospect-theory risk-choice workflows
+  - attribute-framing examples
+  - price-framing diagnostics
+  - health-risk communication scaffolds
+  - sustainability-message framing notes
+  - digital-interface framing notes
+  - consumer-protection analysis
+  - treatment-effect estimation
+  - heterogeneity by loss aversion, numeracy, trust, fatigue, frame strength, salience, and disclosure quality
+  - comprehension diagnostics
+  - welfare proxy analysis
+  - policy-evaluation notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - framing effects
+  - consumer choice
+  - prospect theory
+  - loss aversion
+  - risk communication
+  - price framing
+  - attribute framing
+  - digital platforms
+  - consumer protection
+  - health economics
+  - sustainability communication
+  - public policy
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

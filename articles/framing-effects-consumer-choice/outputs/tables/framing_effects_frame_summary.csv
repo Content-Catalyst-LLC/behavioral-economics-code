@@ -1,0 +1,4 @@
+frame,agents,risky_choice_rate,mean_welfare_proxy,mean_comprehension,mean_adjusted_risky_value,mean_loss_aversion
+gain_frame,3000,0.18,91.4,0.55,83.1,2.01
+loss_frame,3000,0.64,-292.8,0.55,-284.2,2.01
+balanced_absolute_risk_frame,3000,0.31,96.7,0.82,95.9,2.01
