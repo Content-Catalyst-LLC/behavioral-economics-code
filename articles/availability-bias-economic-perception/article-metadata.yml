@@ -1,23 +1,58 @@
-article_slug: "availability-bias-economic-perception"
+title: "Availability Bias and Economic Perception"
+slug: "availability-bias-economic-perception"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/availability-bias-economic-perception/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/availability-bias-economic-perception"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic availability-regime panel data
+  - salience and recall simulations
+  - perceived-probability distortion models
+  - base-rate correction workflows
+  - calibration-error diagnostics
+  - investor-sentiment examples
+  - insurance-demand models
+  - policy-support simulations
+  - crisis-communication scaffolds
+  - media-salience notes
+  - digital-platform attention notes
+  - sustainability and climate-risk communication notes
+  - treatment-effect estimation
+  - heterogeneity by availability sensitivity, numeracy, trust, risk tolerance, and prior experience
+  - welfare proxy analysis
+  - policy-evaluation notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - availability bias
+  - availability heuristic
+  - risk perception
+  - perceived probability
+  - calibration error
+  - media salience
+  - digital platforms
+  - investor sentiment
+  - insurance demand
+  - public policy
+  - sustainability governance
+  - climate communication
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

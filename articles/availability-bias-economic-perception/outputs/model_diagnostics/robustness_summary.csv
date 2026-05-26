@@ -1,0 +1,12 @@
+check,description,status
+covariate_controls,Estimate treatment effects with availability sensitivity numeracy trust risk tolerance prior experience salience disclosure and emotional intensity controls,planned
+availability_sensitivity_heterogeneity,Estimate effects by availability-sensitivity quartile,planned
+numeracy_heterogeneity,Estimate effects by numeracy quartile,planned
+trust_heterogeneity,Estimate effects by trust-in-statistics quartile,planned
+risk_tolerance_heterogeneity,Estimate effects by risk-tolerance quartile,planned
+prior_experience_heterogeneity,Estimate effects by prior-experience status,planned
+calibration_vs_behavior,Compare calibration error and behavior change,planned
+salience_sensitivity,Vary salience-scale assumptions,planned
+base_rate_disclosure_sensitivity,Vary base-rate-disclosure assumptions,planned
+emotional_intensity_sensitivity,Vary emotional-intensity assumptions,planned
+welfare_sensitivity,Vary weights on calibration comprehension and emotional burden,planned
