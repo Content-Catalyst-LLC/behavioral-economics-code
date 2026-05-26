@@ -1,0 +1,10 @@
+check,description,status
+covariate_controls,Estimate treatment effects with objective gain switching cost loss aversion uncertainty fatigue sophistication default support and disclosure controls,planned
+switching_cost_heterogeneity,Estimate effects by switching-cost quartile,planned
+loss_aversion_heterogeneity,Estimate effects by loss-aversion quartile,planned
+decision_fatigue_heterogeneity,Estimate effects by decision-fatigue quartile,planned
+uncertainty_heterogeneity,Estimate effects by uncertainty-sensitivity quartile,planned
+adoption_vs_welfare,Compare adoption changes and welfare changes,planned
+default_shift_sensitivity,Vary default-shift assumptions,planned
+switching_support_sensitivity,Vary switching-support assumptions,planned
+disclosure_sensitivity,Vary disclosure-quality assumptions,planned

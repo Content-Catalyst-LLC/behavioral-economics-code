@@ -1,23 +1,57 @@
-article_slug: "status-quo-bias-institutional-inertia"
+title: "Status Quo Bias and Institutional Inertia"
+slug: "status-quo-bias-institutional-inertia"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/status-quo-bias-institutional-inertia/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/status-quo-bias-institutional-inertia"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic default-retention panel data
+  - status quo bias simulations
+  - switching-cost diagnostics
+  - loss-aversion and regret-avoidance workflows
+  - active-choice policy evaluation
+  - pro-switching default simulation
+  - institutional-inertia notes
+  - path-dependence and legacy-system notes
+  - digital subscription and platform-lock-in notes
+  - sustainability-transition inertia notes
+  - treatment-effect estimation
+  - heterogeneity by switching cost, loss aversion, decision fatigue, uncertainty, and sophistication
+  - welfare analysis
+  - policy-evaluation notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - status quo bias
+  - institutional inertia
+  - default effects
+  - switching costs
+  - loss aversion
+  - regret avoidance
+  - path dependence
+  - consumer protection
+  - retirement defaults
+  - digital platforms
+  - subscription design
+  - sustainability transitions
+  - public policy
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

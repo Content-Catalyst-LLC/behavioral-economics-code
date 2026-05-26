@@ -1,0 +1,4 @@
+regime,agents,adoption_rate,mean_welfare,mean_objective_gain,mean_effective_switch_cost,mean_status_quo_premium,mean_effective_perceived_loss
+passive_status_quo_default,3000,0.08,0.532,0.134,0.251,0.302,0.245
+active_choice_with_disclosure,3000,0.21,0.557,0.136,0.209,0.219,0.198
+pro_switching_default_with_support,3000,0.43,0.586,0.135,0.166,0.128,0.170
