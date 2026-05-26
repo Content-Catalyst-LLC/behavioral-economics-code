@@ -1,0 +1,51 @@
+title: "Behavioral Finance: Why Investors Deviate from Rational Models"
+slug: "behavioral-finance-investor-psychology"
+series: "Behavioral Economics"
+article_url: "https://sustainablecatalyst.com/behavioral-finance-investor-psychology/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/behavioral-finance-investor-psychology"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional behavioral-finance companion scaffold"
+languages:
+  - Python
+  - R
+  - Stata
+  - Julia
+  - SQL
+  - C
+  - C++
+  - Fortran
+  - Rust
+  - Go
+  - Jupyter Notebook
+research_assets:
+  - synthetic behavioral-finance market-history data
+  - synthetic behavioral market-regime experiment
+  - investor-bias simulations
+  - prospect-theory value functions
+  - overconfidence and turnover diagnostics
+  - loss-aversion and reference-point models
+  - anchoring and herding workflows
+  - mispricing diagnostics
+  - platform-salience sensitivity
+  - treatment-effect estimation
+  - investor-protection notes
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - behavioral finance
+  - investor psychology
+  - bounded rationality
+  - overconfidence
+  - loss aversion
+  - anchoring
+  - herding
+  - sentiment
+  - market bubbles
+  - market crashes
+  - investor protection
+  - financial stability
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

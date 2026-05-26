@@ -1,0 +1,9 @@
+check,description,status
+covariate_controls,Estimate treatment effects with friction and platform salience controls,planned
+mispricing_diagnostics,Compare mean and maximum absolute mispricing by regime,planned
+turnover_costs,Compare trade intensity and cost drag by regime,planned
+behavior_scale_sensitivity,Vary behavioral-distortion scale assumptions,planned
+friction_sensitivity,Vary trading-friction assumptions,planned
+platform_salience_sensitivity,Vary platform-salience assumptions,planned
+prospect_theory,Assess reference-point and loss-aversion effects,planned
+financial_stability,Compare drawdown and behavioral-market-risk metrics,planned

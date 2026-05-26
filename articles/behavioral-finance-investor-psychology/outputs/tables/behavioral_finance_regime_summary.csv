@@ -1,0 +1,4 @@
+regime,mean_price,mean_fundamental_value,mean_buy_rate,mean_trade_intensity,mean_trading_cost_drag,mean_mispricing,mean_absolute_mispricing,max_absolute_mispricing,worst_drawdown
+low_behavioral_distortion,102.1,104.8,0.49,0.54,0.0016,-2.7,4.8,12.5,-0.06
+medium_behavioral_distortion,104.6,107.9,0.50,0.88,0.0022,-3.3,7.9,19.8,-0.11
+high_behavioral_distortion_low_friction,109.4,111.7,0.52,1.36,0.0024,-2.3,12.4,31.6,-0.18
