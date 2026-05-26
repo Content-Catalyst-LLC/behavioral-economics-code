@@ -1,0 +1,4 @@
+regime,agents,mean_estimate,mean_judgment_error,mean_absolute_error,mean_decision_quality,mean_welfare_proxy,mean_correction_capacity
+low_bias_with_context,3000,0.350,0.000,0.010,0.990,1.057,0.556
+medium_bias_environment,3000,0.350,0.000,0.019,0.981,1.005,0.467
+high_bias_low_context,3000,0.350,0.000,0.035,0.965,0.940,0.386

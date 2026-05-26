@@ -1,23 +1,56 @@
-article_slug: "heuristics-biases-economic-decision-making"
+title: "Heuristics and Biases in Economic Decision-Making"
+slug: "heuristics-biases-economic-decision-making"
 series: "Behavioral Economics"
-repository: "behavioral-economics-code"
-synthetic_data_only: true
-status: "scaffold"
-methods:
-  - decision-regime simulation
-  - behavioral-friction modeling
-  - prospect-theory examples
-  - intertemporal-choice workflow
-  - social-preference modeling
-  - policy-uptake simulation
+article_url: "https://sustainablecatalyst.com/heuristics-biases-economic-decision-making/"
+github_url: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code/tree/main/articles/heuristics-biases-economic-decision-making"
+repository: "https://github.com/Content-Catalyst-LLC/behavioral-economics-code"
+status: "professional economist-facing companion scaffold"
 languages:
   - Python
   - R
+  - Stata
   - Julia
+  - SQL
+  - C
   - C++
   - Fortran
-  - C
   - Rust
-  - SQL
   - Go
-  - notebooks
+  - Jupyter Notebook
+research_assets:
+  - synthetic heuristic-judgment panel data
+  - availability-bias simulations
+  - representativeness and base-rate neglect examples
+  - anchoring and adjustment examples
+  - framing-effect models
+  - overconfidence diagnostics
+  - correction-capacity workflows
+  - cognitive-load sensitivity analysis
+  - decision-quality and welfare proxy analysis
+  - digital-platform choice-environment notes
+  - sustainability-risk communication notes
+  - treatment-effect estimation
+  - heterogeneity by correction capacity, numeracy, domain knowledge, cognitive load, and confidence
+  - robustness checks
+  - replication workflow
+topics:
+  - behavioral economics
+  - heuristics and biases
+  - cognitive bias
+  - bounded rationality
+  - availability bias
+  - representativeness
+  - anchoring
+  - framing effects
+  - base-rate neglect
+  - overconfidence
+  - decision quality
+  - consumer protection
+  - digital platforms
+  - sustainability governance
+  - institutional design
+  - welfare analysis
+  - causal inference
+data:
+  type: "synthetic"
+  operational_use: false

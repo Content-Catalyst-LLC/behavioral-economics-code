@@ -1,0 +1,12 @@
+check,description,status
+covariate_controls,Estimate treatment effects with correction capacity numeracy knowledge load confidence disclosure debiasing and heuristic signals,planned
+correction_heterogeneity,Estimate effects by correction-capacity quartile,planned
+numeracy_heterogeneity,Estimate effects by numeracy quartile,planned
+knowledge_heterogeneity,Estimate effects by domain-knowledge quartile,planned
+load_heterogeneity,Estimate effects by cognitive-load quartile,planned
+confidence_heterogeneity,Estimate effects by confidence quartile,planned
+signed_vs_absolute_error,Compare signed judgment error and absolute error,planned
+signal_scale_sensitivity,Vary heuristic signal scale,planned
+disclosure_sensitivity,Vary disclosure-quality assumptions,planned
+debiasing_sensitivity,Vary debiasing-support assumptions,planned
+welfare_sensitivity,Vary weights on accuracy correction capacity and burden,planned
