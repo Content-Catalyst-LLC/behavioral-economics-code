@@ -1,0 +1,33 @@
+{
+  "slug": "nudge-theory-behavioral-public-policy",
+  "title": "Nudge Theory and Behavioral Public Policy",
+  "series_title": "Behavioral Economics",
+  "repository": "behavioral-economics-code",
+  "path": "articles/nudge-theory-behavioral-public-policy/",
+  "summary": "Small changes in choice architecture that influence behavior.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

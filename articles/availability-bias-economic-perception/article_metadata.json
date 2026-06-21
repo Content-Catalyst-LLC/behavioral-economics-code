@@ -1,0 +1,33 @@
+{
+  "slug": "availability-bias-economic-perception",
+  "title": "Availability Bias and Economic Perception",
+  "series_title": "Behavioral Economics",
+  "repository": "behavioral-economics-code",
+  "path": "articles/availability-bias-economic-perception/",
+  "summary": "How vivid, recent, and memorable information shapes perceived likelihood and risk.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -euo pipefail
-mkdir -p outputs/tables
-python3 _shared/python/decision_regime_simulation.py
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+python3 "$ROOT/tests/test_repository_structure.py"

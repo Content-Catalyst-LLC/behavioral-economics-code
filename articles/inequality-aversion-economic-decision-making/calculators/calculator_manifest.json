@@ -1,0 +1,24 @@
+{
+  "article_slug": "inequality-aversion-economic-decision-making",
+  "article_title": "Inequality Aversion in Economic Decision-Making",
+  "series_title": "Behavioral Economics",
+  "calculator_layer": "v1",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "calculators": [
+    {
+      "name": "transparent_behavioral_score_python",
+      "language": "python",
+      "path": "python/behavioral_calculator.py",
+      "description": "Computes a transparent behavioral score and probability-like output from value, default, salience, effort, and norm signals.",
+      "smoke_test": "python3 python/behavioral_calculator.py"
+    },
+    {
+      "name": "transparent_behavioral_score_r",
+      "language": "r",
+      "path": "r/behavioral_calculator.R",
+      "description": "R version of the transparent behavioral score calculator.",
+      "smoke_test": "Rscript r/behavioral_calculator.R"
+    }
+  ],
+  "responsible_use": "Educational scaffold only; not a validated behavioral or policy model."
+}

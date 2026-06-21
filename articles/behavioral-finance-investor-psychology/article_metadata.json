@@ -1,0 +1,33 @@
+{
+  "slug": "behavioral-finance-investor-psychology",
+  "title": "Behavioral Finance and Investor Psychology",
+  "series_title": "Behavioral Economics",
+  "repository": "behavioral-economics-code",
+  "path": "articles/behavioral-finance-investor-psychology/",
+  "summary": "Investor behavior, overreaction, underreaction, and market decisions.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sustainable Catalyst calculator manifest",
+  "type": "object",
+  "required": [
+    "article_slug",
+    "article_title",
+    "series_title",
+    "calculators"
+  ],
+  "properties": {
+    "article_slug": {
+      "type": "string"
+    },
+    "article_title": {
+      "type": "string"
+    },
+    "series_title": {
+      "type": "string"
+    },
+    "calculators": {
+      "type": "array"
+    }
+  }
+}

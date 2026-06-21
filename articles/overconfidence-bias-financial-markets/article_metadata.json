@@ -1,0 +1,33 @@
+{
+  "slug": "overconfidence-bias-financial-markets",
+  "title": "Overconfidence and Market Behavior",
+  "series_title": "Behavioral Economics",
+  "repository": "behavioral-economics-code",
+  "path": "articles/overconfidence-bias-financial-markets/",
+  "summary": "Excess confidence, forecasting error, trading, and risk-taking.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

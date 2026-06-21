@@ -1,0 +1,253 @@
+{
+  "repository": "behavioral-economics-code",
+  "organization": "Content-Catalyst-LLC",
+  "series_title": "Behavioral Economics",
+  "kind": "article-map",
+  "description": "Companion repository for behavioral economics, bounded rationality, prospect theory, heuristics, time preference, social preferences, public policy, digital platforms, sustainability, and institutional design.",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "upgrade_tag": "behavioral-science-upgrade-20260621-003706",
+  "standard": "sustainable-catalyst-article-map-code-repo-v2",
+  "article_count": 36,
+  "article_root": "articles/",
+  "shared_root": "_shared/",
+  "default_article_layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculator_layer_required": true,
+  "articles": [
+    {
+      "slug": "bounded-rationality-economic-decision-making",
+      "title": "Bounded Rationality in Economic Decision-Making",
+      "summary": "How limited information, attention, computation, and time shape economic choice.",
+      "path": "articles/bounded-rationality-economic-decision-making/"
+    },
+    {
+      "slug": "prospect-theory-psychology-of-risk",
+      "title": "Prospect Theory and the Psychology of Risk",
+      "summary": "Reference dependence, value functions, probability weighting, gains, and losses.",
+      "path": "articles/prospect-theory-psychology-of-risk/"
+    },
+    {
+      "slug": "loss-aversion-risk-perception",
+      "title": "Loss Aversion and Risk Perception",
+      "summary": "Why losses often feel more powerful than equivalent gains.",
+      "path": "articles/loss-aversion-risk-perception/"
+    },
+    {
+      "slug": "expected-utility-theory-rational-choice",
+      "title": "Expected Utility and Its Behavioral Critique",
+      "summary": "The classical rational-choice benchmark and behavioral critiques.",
+      "path": "articles/expected-utility-theory-rational-choice/"
+    },
+    {
+      "slug": "heuristics-biases-economic-decision-making",
+      "title": "Heuristics and Biases in Economic Decision-Making",
+      "summary": "Mental shortcuts, cognitive limits, and systematic decision errors.",
+      "path": "articles/heuristics-biases-economic-decision-making/"
+    },
+    {
+      "slug": "anchoring-bias-economic-judgment",
+      "title": "Anchoring Effects in Economic Judgment",
+      "summary": "How initial numbers and salient references shape estimates and choices.",
+      "path": "articles/anchoring-bias-economic-judgment/"
+    },
+    {
+      "slug": "availability-bias-economic-perception",
+      "title": "Availability Bias and Economic Perception",
+      "summary": "How vivid, recent, and memorable information shapes perceived likelihood and risk.",
+      "path": "articles/availability-bias-economic-perception/"
+    },
+    {
+      "slug": "framing-effects-consumer-choice",
+      "title": "Framing Effects in Consumer Choice",
+      "summary": "How equivalent information changes decisions depending on presentation.",
+      "path": "articles/framing-effects-consumer-choice/"
+    },
+    {
+      "slug": "status-quo-bias-institutional-inertia",
+      "title": "Status Quo Bias and Institutional Inertia",
+      "summary": "Why existing arrangements often persist.",
+      "path": "articles/status-quo-bias-institutional-inertia/"
+    },
+    {
+      "slug": "time-discounting-long-term-decision-making",
+      "title": "Time Discounting and Long-Term Decision-Making",
+      "summary": "How people weigh present and future outcomes.",
+      "path": "articles/time-discounting-long-term-decision-making/"
+    },
+    {
+      "slug": "present-bias-immediate-reward",
+      "title": "Present Bias and the Psychology of Immediate Reward",
+      "summary": "Why immediate costs and benefits dominate long-term welfare.",
+      "path": "articles/present-bias-immediate-reward/"
+    },
+    {
+      "slug": "mental-accounting-personal-finance",
+      "title": "Mental Accounting in Personal Finance",
+      "summary": "Psychological accounts that shape spending, saving, and investment.",
+      "path": "articles/mental-accounting-personal-finance/"
+    },
+    {
+      "slug": "self-control-commitment-devices-behavioral-economics",
+      "title": "Self-Control and Commitment Devices in Behavioral Economics",
+      "summary": "Precommitment, temptation, procrastination, and long-term goals.",
+      "path": "articles/self-control-commitment-devices-behavioral-economics/"
+    },
+    {
+      "slug": "behavioral-finance",
+      "title": "Behavioral Finance",
+      "summary": "Investor psychology, market anomalies, herding, and risk perception.",
+      "path": "articles/behavioral-finance/"
+    },
+    {
+      "slug": "behavioral-finance-investor-psychology",
+      "title": "Behavioral Finance and Investor Psychology",
+      "summary": "Investor behavior, overreaction, underreaction, and market decisions.",
+      "path": "articles/behavioral-finance-investor-psychology/"
+    },
+    {
+      "slug": "overconfidence-bias-financial-markets",
+      "title": "Overconfidence and Market Behavior",
+      "summary": "Excess confidence, forecasting error, trading, and risk-taking.",
+      "path": "articles/overconfidence-bias-financial-markets/"
+    },
+    {
+      "slug": "herd-behavior-financial-markets",
+      "title": "Herd Behavior in Financial Markets",
+      "summary": "Imitation, cascades, bubbles, and collective behavior under uncertainty.",
+      "path": "articles/herd-behavior-financial-markets/"
+    },
+    {
+      "slug": "fairness-reciprocity-economic-behavior",
+      "title": "Fairness, Reciprocity, and Social Preferences",
+      "summary": "How fairness and reciprocity shape behavior beyond self-interest.",
+      "path": "articles/fairness-reciprocity-economic-behavior/"
+    },
+    {
+      "slug": "inequality-aversion-economic-decision-making",
+      "title": "Inequality Aversion in Economic Decision-Making",
+      "summary": "Responses to unequal outcomes and perceived injustice.",
+      "path": "articles/inequality-aversion-economic-decision-making/"
+    },
+    {
+      "slug": "trust-cooperation-economic-systems",
+      "title": "Trust and Cooperation in Economic Systems",
+      "summary": "Trust, cooperation, reputation, and the social foundations of exchange.",
+      "path": "articles/trust-cooperation-economic-systems/"
+    },
+    {
+      "slug": "nudge-theory-behavioral-public-policy",
+      "title": "Nudge Theory and Behavioral Public Policy",
+      "summary": "Small changes in choice architecture that influence behavior.",
+      "path": "articles/nudge-theory-behavioral-public-policy/"
+    },
+    {
+      "slug": "choice-architecture-decision-environments",
+      "title": "Choice Architecture and Decision Environments",
+      "summary": "Defaults, salience, simplification, feedback, friction, and design.",
+      "path": "articles/choice-architecture-decision-environments/"
+    },
+    {
+      "slug": "behavioral-regulation-institutional-design",
+      "title": "Behavioral Regulation and Institutional Design",
+      "summary": "Behaviorally realistic regulation, compliance, and institutional design.",
+      "path": "articles/behavioral-regulation-institutional-design/"
+    },
+    {
+      "slug": "behavioral-insights-environmental-policy",
+      "title": "Behavioral Insights in Environmental Policy",
+      "summary": "Climate communication, conservation, risk perception, and energy behavior.",
+      "path": "articles/behavioral-insights-environmental-policy/"
+    },
+    {
+      "slug": "behavioral-economics-sustainable-consumption",
+      "title": "Behavioral Economics and Sustainable Consumption",
+      "summary": "Consumption habits, defaults, norms, pricing, and sustainable behavior change.",
+      "path": "articles/behavioral-economics-sustainable-consumption/"
+    },
+    {
+      "slug": "behavioral-economics-digital-platforms",
+      "title": "Behavioral Economics and Digital Platforms",
+      "summary": "Platform choice architecture, attention, personalization, and behavioral data.",
+      "path": "articles/behavioral-economics-digital-platforms/"
+    },
+    {
+      "slug": "behavioral-design-technology-systems",
+      "title": "Behavioral Design in Technology Systems",
+      "summary": "Interface design, defaults, friction, dark patterns, and ethical design.",
+      "path": "articles/behavioral-design-technology-systems/"
+    },
+    {
+      "slug": "behavioral-economics-organizational-decision-making",
+      "title": "Behavioral Economics in Organizational Decision-Making",
+      "summary": "Bias, incentives, group decision-making, and organizational behavior.",
+      "path": "articles/behavioral-economics-organizational-decision-making/"
+    },
+    {
+      "slug": "future-behavioral-economics-governance-policy",
+      "title": "The Future of Behavioral Economics in Governance and Policy",
+      "summary": "Behavioral economics in institutions, technology, regulation, and sustainability.",
+      "path": "articles/future-behavioral-economics-governance-policy/"
+    },
+    {
+      "slug": "behavioral-economics-administrative-burden",
+      "title": "Behavioral Economics and Administrative Burden",
+      "summary": "Paperwork, complexity, stigma, friction, and public-service access.",
+      "path": "articles/behavioral-economics-administrative-burden/"
+    },
+    {
+      "slug": "behavioral-economics-ai-driven-choice-architecture",
+      "title": "Behavioral Economics and AI-Driven Choice Architecture",
+      "summary": "Algorithmic personalization, predictive nudges, autonomy, and governance.",
+      "path": "articles/behavioral-economics-ai-driven-choice-architecture/"
+    },
+    {
+      "slug": "behavioral-economics-climate-risk-perception",
+      "title": "Behavioral Economics and Climate Risk Perception",
+      "summary": "Salience, discounting, uncertainty, and climate-related decisions.",
+      "path": "articles/behavioral-economics-climate-risk-perception/"
+    },
+    {
+      "slug": "behavioral-economics-public-trust",
+      "title": "Behavioral Economics and Public Trust",
+      "summary": "Trust, legitimacy, compliance, communication, and behavioral interventions.",
+      "path": "articles/behavioral-economics-public-trust/"
+    },
+    {
+      "slug": "behavioral-economics-inequality",
+      "title": "Behavioral Economics and Inequality",
+      "summary": "Scarcity, stress, cognitive bandwidth, and the ethics of intervention.",
+      "path": "articles/behavioral-economics-inequality/"
+    },
+    {
+      "slug": "behavioral-economics-dark-patterns",
+      "title": "Behavioral Economics and Dark Patterns",
+      "summary": "Manipulative design, opt-out difficulty, subscription traps, and consumer protection.",
+      "path": "articles/behavioral-economics-dark-patterns/"
+    },
+    {
+      "slug": "loss-aversion-losses-matter-more-than-gains",
+      "title": "Loss Aversion: Why Losses Matter More Than Gains",
+      "summary": "Expanded treatment of loss aversion and reference dependence.",
+      "path": "articles/loss-aversion-losses-matter-more-than-gains/"
+    }
+  ],
+  "responsible_use": "Educational and research-scaffolding examples only; not operational guidance without validation and ethical review."
+}

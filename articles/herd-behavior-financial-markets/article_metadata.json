@@ -1,0 +1,33 @@
+{
+  "slug": "herd-behavior-financial-markets",
+  "title": "Herd Behavior in Financial Markets",
+  "series_title": "Behavioral Economics",
+  "repository": "behavioral-economics-code",
+  "path": "articles/herd-behavior-financial-markets/",
+  "summary": "Imitation, cascades, bubbles, and collective behavior under uncertainty.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

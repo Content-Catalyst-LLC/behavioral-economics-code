@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sustainable Catalyst article metadata",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "series_title",
+    "repository",
+    "path"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "series_title": {
+      "type": "string"
+    },
+    "repository": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "layers": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "calculators": {
+      "type": "boolean"
+    }
+  }
+}
